@@ -1,6 +1,6 @@
 ## Introduction
-This repo is a ansible_playbook module for deploying   
-yum-cron which do scheduled securtiy update
+This repo is an ansible_playbook module for deploying   
+"yum-cron" which can do scheduled securtiy update
 
 ## Environment
 OS: CentOS6.5-x86-64  
