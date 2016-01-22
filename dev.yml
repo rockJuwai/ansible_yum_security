@@ -1,0 +1,5 @@
+---
+- hosts: dev.local.com
+  roles:
+    - common
+  remote_user: root

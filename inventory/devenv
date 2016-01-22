@@ -1,0 +1,4 @@
+# dev hosts inventory
+
+[all]
+dev.local.com

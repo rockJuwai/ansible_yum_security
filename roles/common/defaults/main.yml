@@ -1,0 +1,4 @@
+---
+updateOption: security
+emailTo: admin@localhost
+connectTo: mail.local.com

@@ -1,0 +1,2 @@
+---
+emailFrom: admin@localhost
